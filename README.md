@@ -9,6 +9,4 @@ The calculator preforms simple mathematical arithmetic functions (+, -, /,*) and
 
 
 ## Screenshots
-
-
-
+![72490675-E5A9-422F-B7CE-8571152B3F9B](https://user-images.githubusercontent.com/77867726/201513305-66a1cb29-2cfd-490f-886b-8f2299978431.jpeg)
